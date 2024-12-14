@@ -1,0 +1,1 @@
+this folder contains all the content and base code using flask and python
